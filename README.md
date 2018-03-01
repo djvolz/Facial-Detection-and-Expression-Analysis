@@ -5,12 +5,13 @@ Detects a face in a photo and then analyzes the facial expression
 ## Project Summary
 
 Our project accurately detects a face within an image, identifies the person’s mouth, and determines whether or not they are smiling. Given a set of images of a person input into our system, we can compare their images and determine which photo contains the best smile.
+
 The poster can be downloaded in PDF form.
-Poster.pdf 
 https://cnx.org/resources/1d8ba2802e32ec97a42b28013405d71831ad42bd/Poster.pdf
+
 A PDF version of this report can be found here:
-Smile Identification via Feature Recognition and Corner Detection.pdf
 https://cnx.org/resources/ffebd2b2ae36906361b4738db00e5ec23075b5d3/Smile%20Identification%20via%20Feature%20Recognition%20and%20Corner%20Detection.pdf
+
 The demonstration code is located at: https://github.com/dannyvolz/Facial-Detection-and-Expression-Analysis
 
 ## Introduction and Motivation
